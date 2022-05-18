@@ -15,7 +15,9 @@ img {
  
 }
 
-h5 {
+h1 {
   color: hsl(228, 45%, 44%);
+  font-size: 19px;
+  font-weight: bold;
   
 }
