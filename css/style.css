@@ -1,0 +1,21 @@
+.qr-section {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  border-radius: 1em;
+  border: 3px solid white;
+}
+
+img {
+  border-radius: .8em;
+ 
+}
+
+h5 {
+  color: hsl(228, 45%, 44%);
+  
+}
